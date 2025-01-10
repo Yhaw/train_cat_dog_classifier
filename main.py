@@ -5,6 +5,7 @@ import torch.nn.functional as F
 from torchvision import transforms
 from PIL import Image
 
+#git its
 class CNN(nn.Module):
     def __init__(self):
         super(CNN, self).__init__()
